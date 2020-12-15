@@ -1,0 +1,28 @@
+{
+  "name": "react-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "rome": "^10.0.4-beta",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "rome start",
+    "build": "rome build",
+    "test": "rome test"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
