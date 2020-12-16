@@ -1,6 +1,7 @@
 {
   "name": "rome-examples",
   "private": true,
+  "version": "0.01",
   "devDependencies": {
     "lerna": "^3.22.1"
   }
