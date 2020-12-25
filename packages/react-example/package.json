@@ -9,8 +9,10 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "rome start",
+    "start": "rome develop",
     "build": "rome build",
+    "bundle": "rome bundle",
+    "compile": "rome compile",
     "test": "rome test"
   },
   "browserslist": {
